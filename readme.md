@@ -24,4 +24,4 @@ This project features a modern and responsive design that showcases various fitn
 
 1. **Live Link**
 
-https://sport-center-m.netlify.app/
+https://sportcentermain.netlify.app/
